@@ -1,0 +1,15 @@
+/Users/ildar/Desktop/seminar3/bin/Debug/net6.0/seminar3
+/Users/ildar/Desktop/seminar3/bin/Debug/net6.0/seminar3.deps.json
+/Users/ildar/Desktop/seminar3/bin/Debug/net6.0/seminar3.runtimeconfig.json
+/Users/ildar/Desktop/seminar3/bin/Debug/net6.0/seminar3.dll
+/Users/ildar/Desktop/seminar3/bin/Debug/net6.0/seminar3.pdb
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.csproj.AssemblyReference.cache
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.AssemblyInfoInputs.cache
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.AssemblyInfo.cs
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.csproj.CoreCompileInputs.cache
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.dll
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/refint/seminar3.dll
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.pdb
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/seminar3.genruntimeconfig.cache
+/Users/ildar/Desktop/seminar3/obj/Debug/net6.0/ref/seminar3.dll
